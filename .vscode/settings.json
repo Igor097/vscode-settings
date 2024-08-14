@@ -3,6 +3,7 @@
     "editor.cursorBlinking": "blink",
     "editor.cursorStyle": "line",
     "editor.fontSize": 12,
+    "editor.formatOnSave": true,
     "editor.minimap.enabled": true,
     "editor.renderLineHighlight": "gutter",
     "editor.rules": [
@@ -25,6 +26,7 @@
         ".env": ".env*",
     },
     "files.autoSave": "afterDelay",
+    "git.enableSmartCommit": true,
     "[typescript]": {
         "editor.formatOnSave": true,
         "editor.formatOnPaste": false,
