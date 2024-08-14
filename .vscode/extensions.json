@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "miguelsolorio.symbols",
+    "bradlc.vscode-tailwindcss",
+    "larxx.github-blue",
+    "golang.go",
+    "rust-lang.rust-analyzer",
+    "ms-azuretools.vscode-docker",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "kennylong.kubernetes-yaml-formatter",
+    "GitHub.vscode-github-actions",
+    "GitLab.gitlab-workflow"
+  ]
+}
