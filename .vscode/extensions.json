@@ -13,6 +13,7 @@
     "ms-kubernetes-tools.vscode-kubernetes-tools",
     "kennylong.kubernetes-yaml-formatter",
     "GitHub.vscode-github-actions",
-    "GitLab.gitlab-workflow"
+    "GitLab.gitlab-workflow",
+    "biomejs.biome"
   ]
 }
