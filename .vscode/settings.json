@@ -1,8 +1,11 @@
 {
     "breadcrumbs.enabled": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
     "editor.cursorBlinking": "blink",
     "editor.cursorStyle": "line",
-    "editor.fontSize": 12,
+    "editor.fontSize": 14,
     "editor.formatOnSave": true,
     "editor.minimap.enabled": true,
     "editor.renderLineHighlight": "gutter",
@@ -10,7 +13,11 @@
         80,
         120
     ],
+    "editor.tabSize": 2,
     "editor.semanticHighlighting.enabled": false,
+    "eslint.codeAction.showDocumentation": {
+        "enable": true
+    },
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "explorer.compactFolders": false,
@@ -25,7 +32,10 @@
         ".env.local": ".env*",
         ".env": ".env*",
     },
+    "extensions.autoUpdate": "onlyEnabledExtensions",
     "files.autoSave": "afterDelay",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
     "git.enableSmartCommit": true,
     "[typescript]": {
         "editor.formatOnSave": true,
